@@ -4,6 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - computer_arch.md
   - CONTRIBUTING.md
   - README.md
   - LICENSE.md
